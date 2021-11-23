@@ -3,4 +3,4 @@ This code is used to predict the density of compounds in liquid phase based on a
 
 Input: an excel spreadsheet with the names and SMILES of the compounds of interest (the SMILES are necessary for the prediction and the names are just identifiers for user's reference)
 
-Ouput: the same excel spreadsheet with predicted density (g/ml),	molecular weight (MW in g/mol), and predicted	molar volume (Vm in ml/mol)
+Ouput: the same excel spreadsheet with predicted density (ρ in g/ml),	predicted	molar volume (Vm in ml/mol), and molecular weight (MW in g/mol).
